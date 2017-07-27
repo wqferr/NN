@@ -1,0 +1,3 @@
+[submodule "GMk"]
+	path = GMk
+	url = https://github.com/wqferr/GenericMakefile
